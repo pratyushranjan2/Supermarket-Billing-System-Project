@@ -1,0 +1,1 @@
+int costof(int code,char ch);

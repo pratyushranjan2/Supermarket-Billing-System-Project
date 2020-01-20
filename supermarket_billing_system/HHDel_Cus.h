@@ -1,0 +1,1 @@
+int Del_Cus(char *);

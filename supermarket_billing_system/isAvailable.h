@@ -1,0 +1,1 @@
+int is_available(int code,int quantity,char ch);

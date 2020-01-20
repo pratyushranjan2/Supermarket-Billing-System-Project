@@ -1,0 +1,2 @@
+all : 
+	gcc main.c newbill.c changeProductAmount.c isAvailable.c productDetails.c displayAllProducts.c priceof.c nameof.c Add_Cust.c display_subproducts.c category_products.c update_revenue_details.c costof.c addpoints.c redeem.c Del_Cus.c add_product.c deleteproduct.c Print_Cus.c total_profit.c List_Cus.c display_products.c update_product.c -o main -lm

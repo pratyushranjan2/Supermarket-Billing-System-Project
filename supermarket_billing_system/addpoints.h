@@ -1,0 +1,1 @@
+void addpoints(int cust_id,float total_amount);

@@ -1,0 +1,1 @@
+void change_product_amount(int code,int quantity,char ch);

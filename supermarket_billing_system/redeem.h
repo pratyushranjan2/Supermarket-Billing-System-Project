@@ -1,0 +1,1 @@
+void redeem(char* customer_name);

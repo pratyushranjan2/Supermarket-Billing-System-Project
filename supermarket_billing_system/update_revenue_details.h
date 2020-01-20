@@ -1,0 +1,1 @@
+void update_revenue_details(int cust_id,float total_amount,float total_cost);
